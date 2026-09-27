@@ -1,0 +1,459 @@
+{
+ "StoryLibary": {
+    "132": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "132": "0",
+        "132-Canvas1": "3",
+        "132-Canvas1-1": "Background|SchoolOutsideBg(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "132-Canvas1-2": "Animals|Penguine1(Clone)|(-256.08, 5.49, 0.00)|(1.51, 1.51, 1.51)|(0.00, 180.00, 356.40)",
+        "132-Canvas1-3": "Text|(125.26, -24.02, 0.00)|(0.60, 0.60, 0.60)|323232FF|rtt|(0.00, 0.00, 341.26)",
+        "132CoverInfo": "sssss_rrr_08/08/2023_Other",
+        "132QuizTotal": "0"
+      }
+    },
+    "71726852": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "71726852CoverInfo": "الكسور_amna_13/04/2025_Education_Math|Three|Second_كسور",
+        "Page-1-Scene-0-TotalElement": "5",
+        "Page-1-Scene-1": "BG|School 8-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-2": "Characters|School Boy Front|(5.15, -3.31, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-3": "Plants|Plants2-23|(-1.26, -3.47, 0.00)|(2.60, 2.60, 2.60)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-4": "InputText|(5.92, 1.63, 0.00)|(1.31, 1.31, 1.31)|(0.00, 0.00, 10.00)|True|box4|000000FF|Normal|كم عدد التفاح في الشجرة؟",
+        "Page-1-Scene-5": "Audio|71726852-Page-1-Scene-5|(2.80, 4.46, 0.00)|Normal|0.9167001|0",
+        "Page-2-Scene-0-TotalElement": "9",
+        "Page-2-Scene-1": "BG|School 8-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-2": "Characters|School Boy Front|(4.27, -2.17, 0.00)|(1.00, 1.00, 1.00)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-3": "InputText|(1.38, 2.07, 0.00)|(1.31, 1.31, 1.31)|(0.00, 0.00, 30.00)|True|box6|000000FF|Normal|كم نصف في ٦؟",
+        "Page-2-Scene-4": "Food|Fruit-11|(0.99, -2.20, 0.00)|(0.40, 0.40, 0.40)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-5": "Food|Fruit-11|(-2.79, -2.18, 0.00)|(0.40, 0.40, 0.40)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-6": "Food|Fruit-11|(-6.02, -2.44, 0.00)|(0.40, 0.40, 0.40)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-7": "Food|Fruit-11|(-6.94, 0.53, 0.00)|(0.40, 0.40, 0.40)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-8": "Food|Fruit-11|(-1.38, -0.02, 0.00)|(0.40, 0.40, 0.40)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-9": "Food|Fruit-11|(-4.14, 0.04, 0.00)|(0.40, 0.40, 0.40)|(0.00, 0.00, 0.00)|False",
+        "TotalPage": "2"
+      }
+    },
+    "11A263SG": {
+      "Setting": {
+        "11A263SG-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "11A263SG": "0",
+        "11A263SG-Canvas1": "1",
+        "11A263SG-Canvas1-1": "Background|Bg44(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "11A263SG-Quiz1-1": "TextMultiQuiz|عندما يقرب العدد ٤٨ إلى أقرب عشرة يكون الناتج|null|2|٧٠|1|٨٠|0||2|٩٠|1|2|11A263SG-Q-1",
+        "11A263SG-Quiz2-2": "TextMultiQuiz|تقريب ٧٩٤ إلى أقرب ٠٠١ يعطي|null|1|٥٠٠|2|٩٠٠|0||2|٧٠٠|1|2|11A263SG-Q-2",
+        "11A263SG-Quiz3-3": "TextMultiQuiz|العدد الذي عندما مقربه لأقرب عشرة يكون ناتجه ٠٥ هو|null|2|٥٩|2|٤٢|0||1|٥٣|1|2|11A263SG-Q-3",
+        "11A263SGCoverInfo": "التقريب_سامية_17/03/2025_Education_Math|Three|Second_",
+        "11A263SGQuizTotal": "3"
+      }
+    },
+    "11A26535": {
+      "Setting": {
+        "11A26535-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "11A26535": "1",
+        "11A26535-Canvas1": "4",
+        "11A26535-Canvas1-1": "Background|RedPlainBg(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "11A26535-Canvas1-2": "CustomImage|11A26535-Canvas1-2|(0.63, -16.04, 0.00)|(0.48, 0.48, 0.48)|(0.00, 0.00, 359.93)",
+        "11A26535-Canvas1-3": "Audio|11A26535-Canvas1-3",
+        "11A26535-Canvas1-4": "Text|(0.00, 0.00, 0.00)|(1.00, 1.00, 1.00)|323232FF|اكتب نص القصة هنا|(0.00, 0.00, 0.00)|",
+        "11A26535-Canvas2": "8",
+        "11A26535-Canvas2-1": "Background|RedPlainBg(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "11A26535-Canvas2-2": "LettersSymbols|ArbicNumber1(Clone)|(213.33, 64.38, 0.00)|(0.84, 0.84, 0.84)|(0.00, 0.00, 1.10)|",
+        "11A26535-Canvas2-3": "LettersSymbols|ArbicNumber0(Clone)|(308.80, 77.96, 0.00)|(0.43, 0.43, 0.43)|(0.00, 0.00, 6.77)|",
+        "11A26535-Canvas2-4": "LettersSymbols|LetterX(Clone)|(62.68, 54.52, 0.00)|(0.81, 0.81, 0.81)|(0.00, 0.00, 0.15)|0",
+        "11A26535-Canvas2-5": "LettersSymbols|ArbicNumber7(Clone)|(-351.94, 42.24, 0.00)|(1.15, 1.15, 1.15)|(0.00, 180.00, 358.12)|",
+        "11A26535-Canvas2-6": "LettersSymbols|ArbicNumber0(Clone)|(-159.81, 21.75, 0.00)|(0.47, 0.47, 0.47)|(0.00, 0.00, 341.12)|",
+        "11A26535-Canvas2-7": "LettersSymbols|ArbicNumber1(Clone)|(-501.25, 27.61, 0.00)|(1.08, 1.08, 1.08)|(0.00, 180.00, 359.79)|",
+        "11A26535-Canvas2-8": "Text|(-108.45, 54.64, 0.00)|(1.00, 1.00, 1.00)|323232FF|=|(0.00, 0.00, 0.00)|",
+        "11A26535CoverInfo": "الضرب في عشرة_سامية_17/03/2025_Education_Math|Three|Second_",
+        "11A26535QuizTotal": "0"
+      }
+    },
+    "11A268WR": {
+      "Setting": {
+        "11A268WR-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "11A268WR": "0",
+        "11A268WR-Canvas1": "42",
+        "11A268WR-Canvas1-1": "Background|WhitePlainBg(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "11A268WR-Canvas1-10": "Food|Food46(Clone)|(169.54, 113.89, 0.00)|(0.11, 0.11, 0.11)|(0.00, 0.00, 341.63)",
+        "11A268WR-Canvas1-11": "Food|Food38(Clone)|(-198.88, 179.03, 0.00)|(0.33, 0.33, 0.33)|(0.00, 0.00, 12.83)",
+        "11A268WR-Canvas1-12": "Food|Food33(Clone)|(-251.15, 10.76, 0.00)|(0.18, 0.18, 0.18)|(0.00, 0.00, 350.35)",
+        "11A268WR-Canvas1-13": "Food|Food33(Clone)|(-224.60, 59.29, 0.00)|(0.24, 0.24, 0.24)|(0.00, 0.00, 359.10)",
+        "11A268WR-Canvas1-14": "Food|Food33(Clone)|(-217.96, -21.07, 0.00)|(0.21, 0.21, 0.21)|(0.00, 0.00, 342.52)",
+        "11A268WR-Canvas1-9": "Food|Food46(Clone)|(144.81, 161.57, 0.00)|(0.14, 0.14, 0.14)|(0.00, 0.00, 345.12)",
+        "11A268WRCoverInfo": "الجمع_سامية_20/09/2025_Education_Math|Kg1|First_",
+        "11A268WRQuizTotal": "0"
+      }
+    },
+    "136FQ234": {
+      "Setting": {
+        "136FQ234-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "136FQ234": "2",
+        "136FQ234-Canvas1": "9",
+        "136FQ234-Canvas1-1": "Background|OuterWorldBg2(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "136FQ234-Canvas1-2": "Transportations|Track2(Clone)|(244.15, -129.09, 0.00)|(1.10, 1.10, 1.10)|(0.00, 0.00, 355.24)",
+        "136FQ234-Canvas1-3": "Transportations|Car3(Clone)|(-169.47, -158.74, 0.00)|(1.00, 1.00, 1.00)|(0.00, 0.00, 0.00)",
+        "136FQ234-Canvas1-4": "Animals|Bug1(Clone)|(96.08, -191.43, 0.00)|(0.15, 0.15, 0.15)|(0.00, 180.00, 24.50)",
+        "136FQ234-Canvas1-5": "Character|Kid1Idle(Clone)|(66.01, -128.79, 0.00)|(0.35, 0.35, 0.35)|(0.00, 180.00, 0.00)",
+        "136FQ234-Canvas1-6": "Houses|House8(Clone)|(520.48, 21.78, 0.00)|(1.00, 1.00, 1.00)|(0.00, 0.00, 0.00)",
+        "136FQ234-Canvas1-7": "Houses|House11(Clone)|(-429.83, -31.29, 0.00)|(1.02, 1.02, 1.02)|(0.00, 0.00, 0.56)",
+        "136FQ234-Canvas1-8": "Audio|136FQ234-Canvas1-8",
+        "136FQ234-Canvas1-9": "Text|(5.83, 80.45, 0.00)|(0.97, 0.97, 0.97)|323232FF|المخاطر|(0.00, 0.00, 0.00)|",
+        "136FQ234-Canvas2": "6",
+        "136FQ234-Canvas2-1": "Background|Bg15(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "136FQ234-Canvas2-2": "Character|Kid1Idle(Clone)|(4.30, -162.24, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)",
+        "136FQ234-Canvas2-3": "Tools|Tool4(Clone)|(-80.21, 116.07, 0.00)|(0.33, 0.33, 0.33)|(0.00, 180.00, 342.41)",
+        "136FQ234-Canvas2-4": "Tools|Tool8(Clone)|(160.27, 98.91, 0.00)|(0.30, 0.30, 0.30)|(0.00, 0.00, 66.10)",
+        "136FQ234-Canvas2-5": "Tools|Tool9(Clone)|(-185.84, 77.24, 0.00)|(0.42, 0.42, 0.42)|(0.00, 0.00, 357.61)",
+        "136FQ234-Canvas2-6": "Audio|136FQ234-Canvas2-6",
+        "136FQ234-Canvas3": "3",
+        "136FQ234-Canvas3-1": "Background|Sea(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "136FQ234-Canvas3-2": "Character|Kid1Idle(Clone)|(437.68, -203.05, 0.00)|(0.36, 0.36, 0.36)|(0.00, 0.00, 168.75)",
+        "136FQ234-Canvas3-3": "Audio|136FQ234-Canvas3-3",
+        "136FQ234CoverInfo": "أحمد_سلمى_05/07/2025_Education_Math|Kg1|First_أحمد",
+        "136FQ234QuizTotal": "0"
+      }
+    },
+    "13HFNJRZ": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "13HFNJRZCoverInfo": "جمع ام طرح_أم محمد_22/04/2025_Education_Math|Three|Second_",
+        "Page-1-Scene-0-TotalElement": "3",
+        "Page-1-Scene-1": "BG|Classroom kindergardin-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-2": "InputText|(4.09, -1.34, 0.00)|(0.10, 0.07, 0.10)|(0.00, 0.00, 0.58)|False|IpadAir3LandBG|FF0000FF|Normal|إذا كان عدد الأولاد الذين انضموا إلى مدرسة تحفيظ القران الكريم في فصل الصيف ٥٤ ولدا و ٦٢ بنتا . فكم عدد المنظمين إلى المدرسة ؟",
+        "Page-1-Scene-3": "Characters|Characters 4.0 600-27|(0.29, -7.49, 0.00)|(2.53, 2.53, 2.53)|(0.00, 0.00, 356.18)|False",
+        "Page-1-Scene-4": "InputText|(2.05, 0.16, 0.00)|(0.18, 0.15, 0.18)|(0.00, 0.00, 357.93)|True|IpadAir3LandBG|0022FFFF|Bold|",
+        "Page-2-Scene-0-TotalElement": "5",
+        "Page-2-Scene-1": "BG|Stadium-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-2-Scene-2": "Audio|13HFNJRZ-Page-2-Scene-2|(2.80, 4.46, 0.00)|Normal|0|0",
+        "Page-2-Scene-3": "InputText|(3.34, 0.41, 0.00)|(0.16, 0.13, 0.16)|(0.00, 0.00, 1.45)|False|IpadAir3LandBG|0022FFFF|Bold|",
+        "Page-2-Scene-4": "Sports|sport-03|(6.60, -1.63, 0.00)|(0.35, 0.35, 0.35)|(0.00, 0.00, 358.20)|False",
+        "Page-2-Scene-5": "Characters|child4|(-1.66, -1.23, 0.00)|(2.19, 2.19, 2.19)|(0.00, 0.00, 355.80)|False",
+        "Page-3-Activity": "Sorting_Treasure|ابحث عن متممات المائه_:|53_:_74_:__:/62_:_32_:__:/91_:_9_:__:/55_:_45_:__:",
+        "Page-4-Scene-0-TotalElement": "1",
+        "TotalPage": "4"
+      }
+    },
+    "15KW12CN": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "15KW12CNCoverInfo": "مصنع__09/02/2026_Education_Scinese|One|Second_",
+        "Page-1-Activity": "MultipleChoice_Fishing|تحليل كلمة مَصْنَعٌ_:|2_مَ/صْ/نَ/عٌ_:/1_مَصْ/نَ/عٌ_:/2_مَ/صْنَ/عٌ_:/2_مَصْ/نَعٌ_:",
+        "TotalPage": "1"
+      }
+    },
+    "15KW18JG": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "15KW18JGCoverInfo": "ذال__09/02/2026_Education_Arabic|One|Second_",
+        "Page-1-Activity": "MultipleChoice_Fishing|كلمة بها حرف ص متصل _:|2_صَارُوخٌ_:/1_مِقَصٌّ_:/2_صُوصٌ_:/2_مَصْنَعٌ_:",
+        "TotalPage": "1"
+      }
+    },
+    "18Q36Y8K": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "18Q36Y8KCoverInfo": "الظل _T.salima_16/01/2025_Education_Scinese|Two|First_تعليمي",
+        "Page-1-Activity": "OpenQuestion_GreenHill|كيف يتكون الظل _:",
+        "TotalPage": "1"
+      }
+    },
+    "1A51S3QL": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1A51S3QLCoverInfo": "الاصوات القصيرة والطويلة حرف الهاء_سهام_16/03/2026_Education_Arabic|One|Second_لعبة تفاعلية ",
+        "Page-1-Activity": "OpenQuestion_GreenHill|ما معنى كامة_:",
+        "Page-2-Activity": "OpenQuestion_GreenHill|مت معنى_:",
+        "Page-3-Activity": "MultipleChoice_Fishing|كلمة بها حرف ط_:|1_طاولة_BG:Bathroom-01/2_علم _BG:Desart 3-01/2_بيت_BG:BG 1-01/2_قلم_BG:Desart 3-01",
+        "Page-4-Scene-0-TotalElement": "5",
+        "Page-4-Scene-1": "BG|Bathroom-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-2": "InputText|(1.20, 2.00, -0.30)|(1.00, 1.00, 1.00)|(0.00, 0.00, 0.00)|False|box0|000000FF|Normal|2.1365|1.9989|(1.00, 1.00, 1.00)|",
+        "Page-4-Scene-3": "Audio|1A51S3QL-Page-4-Scene-3|(1.00, 4.46, 0.00)|Normal|3.433582|0|0",
+        "Page-4-Scene-4": "lettersNumbers|AR16|(-3.09, -0.69, -0.50)|(0.39, 0.39, 0.39)|(0.00, 0.00, 9.12)|False|[1-null-1]",
+        "Page-4-Scene-5": "Furniture|object|(2.14, -2.23, -0.60)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False|[100-null-0]",
+        "TotalPage": "4"
+      }
+    },
+    "1A51S4G1": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1A51S4G1CoverInfo": "حرف الهاء_سهام_16/03/2026_Education_Arabic|One|Second_لعبة تفاعلية",
+        "Page-1-Activity": "MultipleChoice_Fishing|كلمة بها حرف الهاء\n_:|1_هادي_:/2_جمل_:/2_نور_:/2_قلم_:",
+        "TotalPage": "1"
+      }
+    },
+    "1A51SPD8": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1A51SPD8CoverInfo": "حرف الهاء_سهام_16/03/2026_Education_Arabic|One|Second_لعبة تعليمية",
+        "Page-1-Activity": "Order_Train|استخرج من الجملة كلمات بها حرف الهاش_:|ذهب هادي الى السوق",
+        "TotalPage": "1"
+      }
+    },
+    "1K5QLLI4": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1K5QLLI4CoverInfo": "القصص_رحمة_21/02/2025_UserContent_None_",
+        "Page-1-Scene-0-TotalElement": "3",
+        "Page-1-Scene-1": "BG|Garden-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-2": "Characters|Characters 4.0 600-16|(-4.09, -1.96, 0.00)|(0.55, 0.55, 0.55)|(0.00, 0.00, 358.57)|False",
+        "Page-1-Scene-3": "Audio|1K5QLLI4-Page-1-Scene-3|(2.80, 4.46, 0.00)|Normal|11.4997|0",
+        "TotalPage": "1"
+      }
+    },
+    "1S13RNBI": {
+      "Setting": {
+        "1S13RNBI-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1S13RNBI": "9",
+        "1S13RNBI-Canvas1": "1",
+        "1S13RNBI-Canvas1-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1S13RNBI-Canvas10": "0",
+        "1S13RNBI-Canvas2": "0",
+        "1S13RNBI-Canvas3": "0",
+        "1S13RNBI-Canvas4": "0",
+        "1S13RNBI-Canvas5": "0",
+        "1S13RNBI-Canvas6": "0",
+        "1S13RNBI-Canvas7": "0",
+        "1S13RNBI-Canvas8": "0",
+        "1S13RNBI-Canvas9": "0",
+        "1S13RNBI-Quiz1-1": "LinkWordsQuiz|أصيد الأسماء |null|ر |سُعَادُ|1|شربَ|2|الْفَلَجُ |1|أَكَلَ |2|مَدْرَسَةً|1|3|1S13RNBI-Q-5",
+        "1S13RNBI-Quiz2-2": "TextMultiQuiz|جمع دُمْيَة|null|1|دُمى|2|دُميتان |2|أدَمُية|2|دُميات |1|3|1S13RNBI-Q-6",
+        "1S13RNBI-Quiz3-3": "TextMultiQuiz|جمع القرية |null|2|أقرية|2|قَرَيَاتُ|2|قريتان |1|قُرى|1|3|1S13RNBI-Q-7",
+        "1S13RNBI-Quiz4-4": "TextMultiQuiz|معنى تَهْبِطُ |null|1|تَنزِلُ |2|تَصعَدُ |2|تقفز |2|تمشي |1|3|1S13RNBI-Q-8",
+        "1S13RNBI-Quiz5-5": "TextMultiQuiz|معنى مُرْتَقِبَةً|null|2|تَسَحَبُ|1|تنتظر |2|يَركَبُ |2|تَنْزِلُ |1|3|1S13RNBI-Q-9",
+        "1S13RNBI-Quiz6-6": "TextMultiQuiz|كلمة ليست بحرف ر |null|1|بَابِلُ |2|قِطَارُ|2|رِيمٌ|2|كُرَةٌ|1|3|1S13RNBI-Q-6",
+        "1S13RNBI-Quiz7-7": "TextMultiQuiz|كم عدد شخصيات|null|2|٣|2|١|2|٤|1|٢|1|3|1S13RNBI-Q-7",
+        "1S13RNBI-Quiz8-8": "TextMultiQuiz|ماذا كانت تفعل الفتاة |null|1|تجري |2|تنام |2|تقفز |2|تمشي |1|3|1S13RNBI-Q-8",
+        "1S13RNBICoverInfo": "حرف ر _شروق _15/10/2024_Education_Arabic|One|First_Arabic|One|First",
+        "1S13RNBIQuizTotal": "5"
+      }
+    },
+    "1T6PX6RZ": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1T6PX6RZCoverInfo": "مفردات الحلمات_AmalAlrasbi_27/10/2025_Education_Arabic|Two|First_",
+        "Page-1-Activity": "MultipleChoice_Fishing|ابحث في الفقرة الأولى عن مرادف ( طَيبُ المذاقِ أو غير مالح):_:|2_سهول_:/1_عذب_:/2_ماء_:/2_منساب_:",
+        "Page-2-Activity": "MultipleChoice_Fishing|هناك كلمة في النص بمعنى ( جارٍ):_:|2_متوقف_:/2_حيوية_:/1_منساب_:/2_مفعمة_:",
+        "Page-3-Activity": "MultipleChoice_Fishing|( كانت فتاة مفعمة بالحيوية والنشاط)، ما معنى كلمة مفعمة؟_:|1_مليئة / ممتلئة_:/2_مؤلفة_:/2_بهجة_:/2_سرور_:",
+        "Page-4-Activity": "MultipleChoice_Fishing|مرادف كلمة تؤلف:_:|2_ترسم_:/2_تلون_:/2_تقرأ_:/1_تكتب_:",
+        "Page-5-Activity": "MultipleChoice_Fishing|ابحث عن كلمة بمعنى الفرح والسعادة  من الفقرة الأولى:_:|1_بهجة_:/2_تؤلف_:/2_جمالاً_:/2_مغردة_:",
+        "TotalPage": "5"
+      }
+    },
+    "1T6PXO99": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1T6PXO99CoverInfo": "كان شهرا كالحلم_AmalAlrasbi_25/04/2025_Education_Arabic|Four|Second_",
+        "Page-1-Activity": "Sorting_Treasure|اقرأ،فكر، ثم صِل الكلمة بمضادها _:|يضيق_:_يُحب_:__:/فحلّت_:_فذهبت_:__:/الرَّتيبة_:_المسلية_:__:/أترابك_:_غرباء_:__:",
+        "Page-2-Activity": "Sorting_Treasure|اقرأ، فكر، صل الكلمة بمضادها_:|الحبور_:_الحزن_:__:/فياضًا _:_شحيحًا_:__:/_:__:__:/_:__:__:",
+        "TotalPage": "2"
+      }
+    },
+    "1U7246GG": {
+      "Setting": {
+        "1U7246GG-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1U7246GG": "6",
+        "1U7246GG-Canvas1": "3",
+        "1U7246GG-Canvas1-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1U7246GG-Canvas1-2": "Text|(17.75, 49.75, 0.00)|(0.98, 0.98, 0.98)|323232FF|اهلا بكم في هذه المسابقة |(0.00, 0.00, 359.27)|None",
+        "1U7246GG-Canvas1-3": "Text|(14.50, -14.75, 0.00)|(0.77, 0.77, 0.77)|323232FF|للحصول على الكنز يجب \nالاجابة على الاسئلة التالية |(0.00, 0.00, 0.15)|None",
+        "1U7246GG-Canvas2": "3",
+        "1U7246GG-Canvas2-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1U7246GG-Canvas2-2": "CustomImage|1U7246GG-Canvas2-2|(1.50, -26.00, 0.00)|(0.09, 0.09, 0.09)|(0.00, 0.00, 0.05)",
+        "1U7246GG-Canvas2-3": "Text|(14.00, 41.50, 0.00)|(0.82, 0.82, 0.82)|FF0000FF|للحصول على الاجابات \nاستعيني بالرقم التالي|(0.00, 0.00, 359.88)|None",
+        "1U7246GG-Canvas3": "2",
+        "1U7246GG-Canvas3-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1U7246GG-Canvas3-2": "Text|(15.25, -5.00, 0.00)|(0.85, 0.85, 0.85)|323232FF|يوجد سؤال خلف احد الشاشات|(0.00, 0.00, 0.51)|None",
+        "1U7246GG-Canvas4": "2",
+        "1U7246GG-Canvas4-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1U7246GG-Canvas4-2": "Text|(15.75, 3.50, 0.00)|(0.86, 0.86, 0.86)|323232FF|السؤال الثاني قرب الطابعة|(0.00, 0.00, 358.81)|None",
+        "1U7246GG-Canvas5": "2",
+        "1U7246GG-Canvas5-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1U7246GG-Canvas5-2": "Text|(24.00, -4.75, 0.00)|(0.86, 0.86, 0.86)|323232FF|السؤال على مكتب استاذ علي|(0.00, 0.00, 359.09)|None",
+        "1U7246GG-Canvas6": "2",
+        "1U7246GG-Canvas6-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1U7246GG-Canvas6-2": "Text|(19.50, 5.00, 0.00)|(1.00, 1.00, 1.00)|323232FF|الكنز موجودفي احد \nكتب الذكاءالاصطناعي|(0.00, 0.00, 358.82)|None",
+        "1U7246GG-Canvas7": "0",
+        "1U7246GGCoverInfo": "الكنز_حفصة_15/12/2024_UserContent_None_الذكاء الاصطناعي ",
+        "1U7246GGQuizTotal": "0"
+      }
+    },
+    "1UA3E8XW": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1UA3E8XWCoverInfo": "نشاط علاجي_wafa_23/02/2025_Education_Math|Two|Second_",
+        "Page-1-Activity": "MultipleChoice_Fishing|استخدم الرموز <,>,= للمقارنة بين الأعداد\n\n٧٦        ٧٢_:|1_<_:/2_>_:/2_=_:/0__:",
+        "TotalPage": "1"
+      }
+    },
+    "1UA3ERD2": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1UA3ERD2CoverInfo": "ترتيب الأعداد_wafa_23/02/2025_Education_Math|Two|Second_",
+        "Page-1-Activity": "MultipleChoice_Fishing|لدى نور و سارة عدد من الخرزات تتكون من ٣ آحاد و ٢ عشرات ، قالت نور أن عدد الخرزات أكبر من من ١٩ و قالت سارة أن عدد الخرزات أصغر من ٢٢ ، أيهما قولها صحيح ؟_:|1_نور _:/2_سارة_:/0__:/0__:",
+        "TotalPage": "1"
+      }
+    },
+    "1UA3EVWP": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1UA3EVWPCoverInfo": "السمع و اللمس_wafa_12/02/2026_Education_Scinese|Three|Second_تعليمي للصف الثالث",
+        "Page-1-Activity": "Sorting_Treasure|زاوج بين الحاسة و العبارة التي تناسبه_:|السمع_:_تميّز الصوت العالي من الصوت المنخفض _:_التفريق بين صوت المنبه من صوت أمك_:/اللمس_:_تميز ملمس القماش الناعم من الملمس الخشن_:_التفريق بين المشروب الساخن من المشروب البارد_:/_:__:__:/_:__:__:",
+        "TotalPage": "1"
+      }
+    },
+    "1W441S8G": {
+      "Setting": {
+        "1W441S8G-AllowAccess": "True",
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "1W441S8G": "3",
+        "1W441S8G-Canvas1": "2",
+        "1W441S8G-Canvas1-1": "Background|SchoolOutsideBg(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1W441S8G-Canvas1-2": "Text|(24.85, 234.98, 0.00)|(1.00, 1.00, 1.00)|323232FF|في المدرسة يتم تعليمنا مختلف العلوم والمعارف |(0.00, 0.00, 0.00)",
+        "1W441S8G-Canvas2": "2",
+        "1W441S8G-Canvas2-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1W441S8G-Canvas2-2": "Text|(1.04, 159.41, 0.00)|(1.00, 1.00, 1.00)|FF0000FF|وفي مركز مصادر التعلم نتعلم ذاتيا ونبحث عن المفيد|(0.00, 0.00, 0.00)",
+        "1W441S8G-Canvas3": "2",
+        "1W441S8G-Canvas3-1": "Background|Bg16(Clone)|(0.00, 0.00, 0.00)|(0.38, 0.38, 0.38)|(0.00, 0.00, 0.00)",
+        "1W441S8G-Canvas3-2": "Text|(17.72, 165.43, 0.00)|(1.00, 1.00, 1.00)|FF0000FF|هل تعرف ما هو مركز مصادر التعلم |(0.00, 0.00, 0.00)",
+        "1W441S8G-Canvas4": "0",
+        "1W441S8GCoverInfo": "مركز مصادر التعلم _سامح_06/04/2024_Education_Other|Five|First_#مصادر_الصبيخي ",
+        "1W441S8GQuizTotal": "0"
+      }
+    },
+    "264KIKNQ": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "264KIKNQCoverInfo": "لعبه العنبر_Batol mostafa aldor_20/03/2025_UserContent_None_لعبه العنبر",
+        "Page-1-Activity": "MultipleChoice_Fishing|يكون طول الملعب الذي نلعب به لعبه العنبر ؟\n_:|2_40سم_:/1_40م_:/2_20سم_:/2_44سم_:",
+        "Page-2-Activity": "OpenQuestion_GreenHill|الالعاب جمع مفردها_:",
+        "Page-3-Activity": "Missing_Train|رتب الجمله_:|يكون عرض الملعب للعبه _0_20م",
+        "TotalPage": "3"
+      }
+    },
+    "264VD2OA": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "264VD2OACoverInfo": "الهجرة إلى الحبشة_Latifa_11/03/2025_Education_Islamic|Four|Second_الهجرة ",
+        "Page-1-Activity": "MultipleChoice_Fishing|كم عدد المهاجرين في الهجرة الاولى ؟\n_:|2_٥ رجال و ٣ نساء_:/2_٥١ رجلا و ٠١ نساء_:/1_١١ رجلا و ٤ نساء_:/2_٨ رجال ٦ نساء_:",
+        "Page-2-Activity": "MultipleChoice_Fishing|متى حدثت الهجرة الثانية ؟_:|2_في شهر رمضان_:/2_في شهر شعبان_:/1_في شهر شوال_:/2_في شهر رجب_:",
+        "TotalPage": "2"
+      }
+    },
+    "28B643YC": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "28B643YCCoverInfo": "عادي_فرح_18/09/2025_UserContent_None_اأطفال",
+        "Page-1-Activity": "Order_Train|أسم بنت_:|نهروان",
+        "Page-2-Activity": "Order_Train|أسم مكان_:|وادي المعاول",
+        "Page-3-Activity": "Order_Train|أسم بلده_:|إ ن د و ن ي س ي ا",
+        "Page-4-Scene-0-TotalElement": "9",
+        "Page-4-Scene-1": "BG|City1-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-2": "Buldings|Building1|(-0.41, -1.74, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-3": "Characters|Characters 4.0 600-28|(5.98, -0.73, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-4": "Characters|School Girl Side|(-3.47, -1.02, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-5": "Birds|Big Bird|(-1.21, -3.36, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-6": "Birds|Big Bird|(4.75, -2.78, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-7": "Weather|rain|(-4.99, 2.76, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-8": "Weather|rain|(3.84, 3.08, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-4-Scene-9": "Weather|rain|(-0.78, 2.93, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "TotalPage": "4"
+      }
+    },
+    "28B64P9N": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "28B64P9NCoverInfo": "تعليمي_فرح_19/07/2025_UserContent_None_يساعد الاطفال الضعفاء",
+        "Page-1-Activity": "OpenQuestion_GreenHill|ماهو أبطى حيوانين فالعالم_:",
+        "Page-2-Activity": "OpenQuestion_GreenHill|ما هو أبطى حيوانين فالعالم_:",
+        "TotalPage": "2"
+      }
+    },
+    "28B64VUC": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "28B64VUCCoverInfo": "تسليتي_فرح_18/09/2025_Education_Math|Five|First_لغة عربية",
+        "Page-1-Activity": "OpenQuestion_GreenHill|ألوان علم عمان_:",
+        "Page-2-Activity": "Order_Train|أسم بنت_:|نرهاون",
+        "TotalPage": "2"
+      }
+    },
+    "2E5XMSK8": {
+      "Setting": {
+        "UpdateNumber": "0"
+      },
+      "Story": {
+        "2E5XMSK8CoverInfo": "قصة_No Name_06/01/2025_UserContent_None_اقوال الصلاة",
+        "Page-1-Scene-0-TotalElement": "7",
+        "Page-1-Scene-1": "BG|City 4-01|(0.00, 0.00, 0.00)|(0.63, 0.63, 0.63)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-2": "Characters|Boy-Joy|(-1.31, -1.84, 0.00)|(0.30, 0.30, 0.30)|(0.00, 0.00, 357.95)|False",
+        "Page-1-Scene-3": "Characters|girl-Joy|(-0.11, -3.70, 0.00)|(0.29, 0.29, 0.29)|(0.00, 0.00, 1.87)|False",
+        "Page-1-Scene-4": "Characters|Father-Joy|(-3.45, -1.46, 0.00)|(0.50, 0.50, 0.50)|(0.00, 0.00, 0.00)|False",
+        "Page-1-Scene-5": "Characters|Characters 4.0 600-28|(1.55, -1.15, 0.00)|(0.57, 0.57, 0.57)|(0.00, 0.00, 0.11)|False",
+        "Page-1-Scene-6": "Audio|2E5XMSK8-Page-1-Scene-6|(2.80, 4.46, 0.00)|Normal|30.15498|0",
+        "TotalPage": "4"
+      }
+    }
+  }
+}
